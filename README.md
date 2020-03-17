@@ -10,7 +10,7 @@ Además que estarás practicando un poco de GitHub colaborativo. ;)
 
 ¿Te apuntas al reto?
 
-Cualquier PR (pull request) es bienvenido para ampliar/corregir el repertorio. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) para tal propósito o [hacerlo en el propio gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md)
+Cualquier PR (pull request) es bienvenida para ampliar/corregir el repertorio. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) para tal propósito o [hacerlo en el propio gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md)
 
 Las soluciones a cada refrán están en un branch aparte.
 
