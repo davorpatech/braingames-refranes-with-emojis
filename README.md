@@ -10,7 +10,7 @@ Además que estarás practicando un poco de GitHub colaborativo. ;)
 
 ¿Te apuntas al reto?
 
-Cualquier PR (pull request) es bienvenido para ampliar/corregir el repertorio. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) para tal propósito o [hacerlo en el propio gists](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md)
+Cualquier PR (pull request) es bienvenido para ampliar/corregir el repertorio. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) para tal propósito o [hacerlo en el propio gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md)
 
 Las soluciones a cada refrán están en un branch aparte.
 
@@ -18,7 +18,7 @@ Las soluciones a cada refrán están en un branch aparte.
 
 Es muy simple:
 
-1. [Abre el gists](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md) que he creado para tal fin.
+1. [Abre el gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6#file-braingames-refranes-with-emojis-md) que he creado para tal fin.
 2. Haz un comentario en él para la línea de código correspondiente y/o indica el número de refrán junto con la frase hecha que crees que se corresponde.
 
 ## Refranero en emoticonos
