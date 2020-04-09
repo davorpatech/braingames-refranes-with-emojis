@@ -1,15 +1,35 @@
 {
-    "spellright.language": ["es"],
+    "spellright.language": [
+        "es",
+        "en"
+    ],
     "spellright.documentTypes": [
+        "markdown",
         "latex",
         "plaintext"
     ],
     "cSpell.words": [
+        "allowed",
+        "block",
+        "blocks",
         "braingames",
         "coronavirus",
+        "davorpa",
+        "default",
+        "elements",
+        "emojis",
         "emoticonos",
         "gist",
+        "header",
+        "headers",
+        "heading",
+        "headings",
+        "length",
+        "line",
         "meme",
-        "pull"
+        "pull",
+        "punctuation",
+        "strict",
+        "trailing"
     ]
 }
