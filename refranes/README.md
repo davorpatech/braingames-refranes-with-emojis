@@ -10,7 +10,7 @@ Además que estarás practicando un poco de GitHub colaborativo. ;)
 
 ## ¿Te apuntas al reto?
 
-Cualquier *PR (pull request)* es bienvenida para ampliar/corregir el repertorio de cada temática. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) **[@davorpa](http://twitter.com/davorpa)** para tal propósito o [hacerlo en el propio gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6)
+Cualquier *PR (pull request)* es bienvenida para ampliar/corregir el repertorio de cada temática. También puedes contactar conmigo por [Twitter](http://twitter.com/davorpa) **[@davorpa](http://twitter.com/davorpa)** para tal propósito o [hacerlo en el propio gist](https://gist.github.com/davorpa/044a82bea0b399ebf9ed8cf1db2fe5f6).
 
 Las soluciones a cada refrán están en un branch aparte.
 
