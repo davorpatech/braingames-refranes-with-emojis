@@ -1,0 +1,15 @@
+{
+    "spellright.language": ["es"],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.words": [
+        "braingames",
+        "coronavirus",
+        "emoticonos",
+        "gist",
+        "meme",
+        "pull"
+    ]
+}
